@@ -1,0 +1,4 @@
+"com.mysql.jdbc.Driver"
+String url = "jdbc:mysql://localhost:3306/courseselectionsystem";
+String username = "root";
+String password = "djh13736558759";
